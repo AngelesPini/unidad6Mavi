@@ -1,6 +1,6 @@
 # Unidad 6 de Modelos y Algoritmos para videojuegos
 ### Se trabaja en lenguaje C++, en visual studio con SFML 
-### Simuladores de animaciones indicacod en el apunte de la unidad 6 de la cátedra.
+### Simuladores de animaciones indicados en el apunte de la unidad 6 de la cátedra.
 
 ## Ejercicios: 
 ### Ejercicio 1: Se recicla el código brindado en el apunte, simulando la acelaración de un objeto que al salir por un extremo de la ventana aparece por el extremo opuesto incrmeentando su aceleración
